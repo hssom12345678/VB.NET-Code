@@ -1,0 +1,84 @@
+C:\Users\skulka12\Documents\Macros New\Cosmos_ER707\Cosmos_ER707\bin\Debug\Cosmos_ER707.exe.config
+c:\users\skulka12\documents\macros new\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbproj.ResolveComReference.cache
+c:\users\skulka12\documents\macros new\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.Resources.resources
+c:\users\skulka12\documents\macros new\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbproj.GenerateResource.Cache
+c:\users\skulka12\documents\macros new\cosmos_er707\Cosmos_ER707\bin\Debug\Cosmos_ER707.exe
+c:\users\skulka12\documents\macros new\cosmos_er707\Cosmos_ER707\bin\Debug\Cosmos_ER707.pdb
+c:\users\skulka12\documents\macros new\cosmos_er707\Cosmos_ER707\bin\Debug\Cosmos_ER707.xml
+c:\users\skulka12\documents\macros new\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.exe
+c:\users\skulka12\documents\macros new\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.xml
+c:\users\skulka12\documents\macros new\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.pdb
+c:\users\skulka12\documents\macros new\archieve\cosmos_er707\Cosmos_ER707\bin\Debug\Cosmos_ER707.exe.config
+c:\users\skulka12\documents\macros new\archieve\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbproj.ResolveComReference.cache
+c:\users\skulka12\documents\macros new\archieve\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.exe
+c:\users\skulka12\documents\macros new\archieve\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.xml
+c:\users\skulka12\documents\macros new\archieve\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.pdb
+c:\users\skulka12\documents\macros new\archieve\cosmos_er707\Cosmos_ER707\bin\Debug\Cosmos_ER707.exe
+c:\users\skulka12\documents\macros new\archieve\cosmos_er707\Cosmos_ER707\bin\Debug\Cosmos_ER707.pdb
+c:\users\skulka12\documents\macros new\archieve\cosmos_er707\Cosmos_ER707\bin\Debug\Cosmos_ER707.xml
+c:\users\skulka12\documents\macros new\archieve\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.Resources.resources
+c:\users\skulka12\documents\macros new\archieve\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbproj.GenerateResource.Cache
+c:\users\skulka12\documents\macros new\possible projects\cosmos_er707\Cosmos_ER707\bin\Debug\Cosmos_ER707.exe.config
+c:\users\skulka12\documents\macros new\possible projects\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbproj.ResolveComReference.cache
+c:\users\skulka12\documents\macros new\possible projects\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.exe
+c:\users\skulka12\documents\macros new\possible projects\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.xml
+c:\users\skulka12\documents\macros new\possible projects\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.pdb
+c:\users\skulka12\documents\macros new\possible projects\cosmos_er707\Cosmos_ER707\bin\Debug\Cosmos_ER707.exe
+c:\users\skulka12\documents\macros new\possible projects\cosmos_er707\Cosmos_ER707\bin\Debug\Cosmos_ER707.pdb
+c:\users\skulka12\documents\macros new\possible projects\cosmos_er707\Cosmos_ER707\bin\Debug\Cosmos_ER707.xml
+c:\users\skulka12\documents\macros new\possible projects\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.Resources.resources
+c:\users\skulka12\documents\macros new\possible projects\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbproj.GenerateResource.Cache
+c:\users\public\macros\projects\cosmos_er707\Cosmos_ER707\bin\Debug\Cosmos_ER707.exe.config
+c:\users\public\macros\projects\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbproj.ResolveComReference.cache
+c:\users\public\macros\projects\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.exe
+c:\users\public\macros\projects\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.xml
+c:\users\public\macros\projects\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.pdb
+\\nas00283pn\ARO3\Global\Analytics\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbproj.ResolveComReference.cache
+\\nas00283pn\ARO3\Global\Analytics\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.Resources.resources
+\\nas00283pn\ARO3\Global\Analytics\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbproj.GenerateResource.Cache
+\\nas00283pn\ARO3\Global\Analytics\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.exe
+\\nas00283pn\ARO3\Global\Analytics\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.xml
+\\nas00283pn\ARO3\Global\Analytics\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.pdb
+\\nas00283pn\aro3\global\analytics\automation team\marco\macros\cosmos\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbproj.CoreCompileInputs.cache
+\\nas00283pn\aro3\global\analytics\automation team\marco\macros\cosmos\cosmos_er707\Cosmos_ER707\bin\Debug\Cosmos_ER707.exe.config
+\\nas00283pn\aro3\global\analytics\automation team\marco\macros\cosmos\cosmos_er707\Cosmos_ER707\bin\Debug\Cosmos_ER707.exe
+\\nas00283pn\aro3\global\analytics\automation team\marco\macros\cosmos\cosmos_er707\Cosmos_ER707\bin\Debug\Cosmos_ER707.pdb
+\\nas00283pn\aro3\global\analytics\automation team\marco\macros\cosmos\cosmos_er707\Cosmos_ER707\bin\Debug\Cosmos_ER707.xml
+\\nas00283pn\aro3\global\analytics\automation team\marco\macros\cosmos\cosmos_er707\Cosmos_ER707\bin\Debug\CommonTools.dll
+\\nas00283pn\aro3\global\analytics\automation team\marco\macros\cosmos\cosmos_er707\Cosmos_ER707\bin\Debug\CommonTools.pdb
+\\nas00283pn\aro3\global\analytics\automation team\marco\macros\cosmos\cosmos_er707\Cosmos_ER707\bin\Debug\CommonTools.xml
+\\nas00283pn\aro3\global\analytics\automation team\marco\macros\cosmos\cosmos_er707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbprojResolveAssemblyReference.cache
+E:\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\bin\Debug\Cosmos_ER707.exe.config
+E:\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\bin\Debug\Cosmos_ER707.exe
+E:\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\bin\Debug\Cosmos_ER707.pdb
+E:\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\bin\Debug\Cosmos_ER707.xml
+E:\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\bin\Debug\CommonToolsv2.dll
+E:\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\bin\Debug\CommonToolsv2.pdb
+E:\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\bin\Debug\CommonToolsv2.xml
+E:\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbproj.ResolveComReference.cache
+E:\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.Resources.resources
+E:\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbproj.GenerateResource.cache
+E:\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbproj.CoreCompileInputs.cache
+E:\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbproj.CopyComplete
+E:\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.exe
+E:\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.xml
+E:\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.pdb
+\\Apsep04828\e\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\bin\Debug\Cosmos_ER707.exe.config
+\\Apsep04828\e\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\bin\Debug\Cosmos_ER707.exe
+\\Apsep04828\e\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\bin\Debug\Cosmos_ER707.pdb
+\\Apsep04828\e\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\bin\Debug\Cosmos_ER707.xml
+\\Apsep04828\e\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\bin\Debug\CommonToolsv2.dll
+\\Apsep04828\e\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\bin\Debug\CommonToolsv2.pdb
+\\Apsep04828\e\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\bin\Debug\CommonToolsv2.xml
+\\Apsep04828\e\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbproj.ResolveComReference.cache
+\\Apsep04828\e\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.Resources.resources
+\\Apsep04828\e\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbproj.GenerateResource.cache
+\\Apsep04828\e\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbproj.CoreCompileInputs.cache
+\\Apsep04828\e\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.exe
+\\Apsep04828\e\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.xml
+\\Apsep04828\e\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.pdb
+E:\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\bin\Debug\Newtonsoft.Json.dll
+E:\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\bin\Debug\UHG.Comet.ServiceProxies.dll
+\\APSEP04828\e\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\bin\Debug\UHG.Comet.ServiceProxies.dll
+\\APSEP04828\e\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\bin\Debug\Newtonsoft.Json.dll
+\\APSEP04828\e\CCM\Automation Team\Marco\Macros\COSMOS\Cosmos_ER707\Cosmos_ER707\obj\Debug\Cosmos_ER707.vbprojResolveAssemblyReference.cache
